@@ -43,5 +43,6 @@ I'm a Computer Science Engineering student passionate about Software Development
 
 ## 📫 Connect with Me
 
-- LinkedIn: Your LinkedIn URL
-- Email: your@email.com
+- LinkedIn: www.linkedin.com/in/keyur-patle-4359222a2
+
+- Email: keyurpatle18@gmail.com
